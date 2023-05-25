@@ -54,4 +54,8 @@ public class HerstellerController {
         return new ResponseEntity<>(HttpStatus.OK);
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> baa8a8055c91ebe2f2569443472aae48f718333b
