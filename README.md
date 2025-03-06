@@ -1,9 +1,8 @@
-# Angular-SpringBoot
+# Angular-SpringBoot Projekt
 
-# This project demonstrate how to use Spring-Boot framework as backend Tools and Angular framework as frontend Tools
-I created the database model myself. This is just for learning how to use Spring-boot with Angular.
-I didn't want to try the basic examples or tutorial but something different, which I thought up myself and implement new ideas. 
-In the end it is important what you have learned and not what you have tried.
+This project demonstrates how to use the Spring Boot framework as the backend and the Angular framework as the frontend.
 
+I designed and created the database model on my own, aiming to gain hands-on experience with integrating Spring Boot and Angular. Instead of following basic tutorials or examples, I wanted to challenge myself by coming up with my own ideas and implementing them from scratch. This project reflects my focus on learning through practical application and problem-solving. In the end, it's not just about the technical tools you use, but what you learn and how you apply that knowledge to create something meaningful.
+If anyone has any ideas for improving the project, please send me an email at a-hage@hotmail.de
 ##
-if anyone has any ideas for improving the project, please send me an email at a-hage@hotmail.de.
+If anyone has any ideas for improving the project, please send me an email at a-hage@hotmail.de
